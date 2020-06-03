@@ -1,0 +1,16 @@
+num1 = int(input("1 - "))
+num2 = int(input("2 - "))
+num3 = int(input("3 - "))
+print("\n")
+
+print(num1//16,num1%16)
+print(num2//16,num2%16)
+print(num3//16,num3%16)
+print("\n")
+
+print("a- 10")
+print("b- 11")
+print("c- 12")
+print("d- 13")
+print("e- 14")
+print("f- 15")
